@@ -1,6 +1,5 @@
 import os
 import customtkinter as ctk
-from alpha_vantage.timeseries import TimeSeries
 from dotenv import load_dotenv
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
